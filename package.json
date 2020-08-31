@@ -1,0 +1,35 @@
+{
+  "name": "env-analyzer",
+  "version": "1.0.0",
+  "description": "An .env file parser and writer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "env",
+    "reader",
+    "writer",
+    "parser",
+    "env-analyzer",
+    "dbs",
+    "remyk",
+    "arthur_leo",
+    "discord",
+    "json",
+    "fs",
+    "path"
+  ],
+  "author": "RemyK#3876",
+  "license": "MIT",
+  "homepage": "https://github.com/RemyK888/env-analyzer",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RemyK888/env-analyzer.git"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "util": "^0.12.3"
+  }
+}
